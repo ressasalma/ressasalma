@@ -162,6 +162,7 @@ An idea for a document formatting platform that simplifies the organization of a
 The concept focuses on automatic formatting of covers, headings, page numbering, and document structure based on reference templates.
 
 `React` · `Vite` · `GSAP` · `Python` · `MySQL`
+
 [Explore Repository](https://github.com/ressasalma/rapiindoc)
 
 ---
