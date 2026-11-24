@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC8DD&height=200&section=header&text=Ressa%20Salma%20Fatikah&fontSize=40&fontColor=5C7CA8&animation=fadeIn&fontAlignY=38&desc=technology%20%C2%B7%20creativity%20%C2%B7%20curiosity&descSize=15&descAlignY=60&descColor=5C7CA8" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=E88EAE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ressa+Salma+%E2%9C%A7;Informatics+Engineering+Student;Exploring+Code%2C+Design+%26+Technology;Not+lost%2C+just+collecting+pieces." />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=E88EAE&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ressa+Salma+Fatikah+%E2%9C%A7;Informatics+Engineering+Student;Exploring+Code%2C+Design+%26+Technology;Not+lost%2C+just+collecting+pieces." />
 
 <br/>
 
