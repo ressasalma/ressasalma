@@ -135,7 +135,7 @@ A collection of academic projects, experiments, and ideas I've worked on or expl
 
 A personal website to introduce myself, showcase my projects, skills, experiences, and creative works.
 
-`React` · `Vite` 
+`React` · `Vite` · `GSAP`
 
 [Explore Repository](https://github.com/ressasalma/portofolio-ressa)
 
@@ -155,27 +155,14 @@ The project focuses on text preprocessing, dataset exploration, and identifying 
 
 `Python` · `Pandas` · `Jupyter Notebook` · `NLP`
 
-### 🏠 JeJakos — Boarding House Platform
-
-A concept for a digital platform that helps people find boarding houses in Jambi based on location, budget, and facilities.
-
-The idea includes property discovery, maps, chatbot assistance, booking, and tenant-owner communication.
-
-*Project concept / development exploration.*
-
 ### 📄 RapiInDoc — Academic Document Formatter
 
 An idea for a document formatting platform that simplifies the organization of academic papers, reports, and proposals.
 
 The concept focuses on automatic formatting of covers, headings, page numbering, and document structure based on reference templates.
 
-*Project concept / development exploration.*
-
-### 🔎 Temu.in — Campus Lost & Found
-
-A concept for a campus lost-and-found platform designed to help people reconnect with their missing belongings through location-based discovery and item status tracking.
-
-*Project concept / design exploration.*
+`React` · `Vite` · `GSAP` · `Python` · `MySQL`
+[Explore Repository](https://github.com/ressasalma/rapiindoc)
 
 ---
 
@@ -197,7 +184,6 @@ Always learning something new, one project at a time.
 
 A few things that make me, well, me.
 
-- 🇹🇭 Exploring the Thai language and culture.
 - 🎨 Drawing, designing, and experimenting with visual ideas.
 - 🎬 Video editing and content creation.
 - 🍳 Cooking and trying new things.
